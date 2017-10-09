@@ -1,0 +1,13 @@
+body {background-color: #9cacac; font-family: verdana; margin: 0px; }
+p { }
+.contact {background-color: #acbcbc; width: 98%; margin-top: 5px; margin-bottom: 5px; }
+.memo {}
+.warning {color: #990000; }
+.frmAdd,.frmEdit {font-size: 8pt; }
+.nav {font-size: 60%; margin: 0; }
+.note {font-size: 60%;}
+.avatar {margin: 0; }
+.active {color: #dfdfdf; }
+.inactive {color: #000000; }
+td.left {width: 80px; }
+td.right { }
